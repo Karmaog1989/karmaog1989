@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Karmaog1989/karmaog1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on task automation
 - 🌱 I’m currently learning python, flask and SQL
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**Karmaog1989/karmaog1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
